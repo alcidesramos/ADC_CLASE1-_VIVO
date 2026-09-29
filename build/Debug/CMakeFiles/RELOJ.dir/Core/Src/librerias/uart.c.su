@@ -1,0 +1,4 @@
+C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/Core/Src/librerias/uart.c:15:6:uartx_write	16	static
+C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/Core/Src/librerias/uart.c:21:6:uartx_write_text	16	static
+C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/Core/Src/librerias/uart.c:29:9:uartx_read	16	static
+C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/Core/Src/librerias/uart.c:38:6:uartx_read_text	24	static
