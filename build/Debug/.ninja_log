@@ -1,9 +1,9 @@
 # ninja log v5
-210	904	8123402091929613	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	ef580790ce5e4075
-10	42	0	C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/build/Debug/CMakeFiles/cmake.verify_globs	daa932c0ea1faa54
 86	232	8123402085372327	CMakeFiles/RELOJ.dir/startup_stm32f401xc.s.obj	3df89f9e01db029e
-70	336	8123402086365340	CMakeFiles/RELOJ.dir/Core/Src/sysmem.c.obj	d448e11df0b1fe25
+210	904	8123402091929613	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	ef580790ce5e4075
+16	47	0	C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/build/Debug/CMakeFiles/cmake.verify_globs	daa932c0ea1faa54
 77	530	8123402088236237	CMakeFiles/RELOJ.dir/Core/Src/syscalls.c.obj	7ff59533358919ac
+70	336	8123402086365340	CMakeFiles/RELOJ.dir/Core/Src/sysmem.c.obj	d448e11df0b1fe25
 336	912	8123402092118549	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	8cab0caa968bbe5f
 168	1014	8123402093097967	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	e9ad3a8ab96c6b4a
 189	903	8123402091529336	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	7c7d262e3a2a3e90
@@ -17,23 +17,33 @@
 178	895	8123402091894262	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	f1c5e7354979f24e
 564	1199	8123402094979794	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	b3d92e88d0b0fd06
 146	994	8123402092118549	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	7e5fc3e04c37347d
-49	697	8123402089979360	CMakeFiles/RELOJ.dir/Core/Src/main.c.obj	fa7671528344196b
+52	323	8129429085326920	CMakeFiles/RELOJ.dir/Core/Src/main.c.obj	fa7671528344196b
 106	741	8123402090203068	CMakeFiles/RELOJ.dir/Core/Src/librerias/uart.c.obj	318f84f82912f160
 697	1396	8123402097027875	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj	e2b9461a135e52cb
 590	1134	8123402094273937	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	ed77c4dd36501fd1
 651	1178	8123402094801025	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	999250227570334f
-1396	1714	8123402099093539	RELOJ.elf	273deef65007594e
+323	662	8129429087307715	RELOJ.elf	273deef65007594e
+42	348	8129435051537878	build.ninja	7c3ffcd8302c361f
 125	765	8123402090652667	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj	1920265c1697712c
-54	360	8123404330726098	build.ninja	7c3ffcd8302c361f
 96	753	8123402090075027	CMakeFiles/RELOJ.dir/Core/Src/librerias/adc_x.c.obj	ae134213b406bdde
 135	1015	8123402093006960	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj	eec131b5c229d15e
-42	348	8123404330726098	build.ninja	7c3ffcd8302c361f
-19	53	0	C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/build/Debug/CMakeFiles/cmake.verify_globs	daa932c0ea1faa54
-55	507	8123404336521913	CMakeFiles/RELOJ.dir/Core/Src/main.c.obj	fa7671528344196b
-508	856	8123404338542725	RELOJ.elf	273deef65007594e
-19	52	0	C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/build/Debug/CMakeFiles/cmake.verify_globs	daa932c0ea1faa54
-54	319	8123409427094292	CMakeFiles/RELOJ.dir/Core/Src/main.c.obj	fa7671528344196b
-320	652	8123409429070518	RELOJ.elf	273deef65007594e
-19	53	0	C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/build/Debug/CMakeFiles/cmake.verify_globs	daa932c0ea1faa54
-55	320	8123410456108335	CMakeFiles/RELOJ.dir/Core/Src/main.c.obj	fa7671528344196b
-321	662	8123410458027195	RELOJ.elf	273deef65007594e
+48	337	8129435051537878	build.ninja	7c3ffcd8302c361f
+15	42	0	C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/build/Debug/CMakeFiles/cmake.verify_globs	daa932c0ea1faa54
+51	325	8129435055462102	CMakeFiles/RELOJ.dir/Core/Src/stm32f4xx_it.c.obj	84c6deabf5b8e0a6
+58	332	8129435055537991	CMakeFiles/RELOJ.dir/Core/Src/stm32f4xx_hal_msp.c.obj	6980db217c55f91f
+65	345	8129435055685009	CMakeFiles/RELOJ.dir/Core/Src/librerias/adc_x.c.obj	ae134213b406bdde
+44	367	8129435055906987	CMakeFiles/RELOJ.dir/Core/Src/main.c.obj	fa7671528344196b
+72	387	8129435056103127	CMakeFiles/RELOJ.dir/Core/Src/librerias/uart.c.obj	318f84f82912f160
+388	731	8129435058123536	RELOJ.elf	273deef65007594e
+16	49	0	C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/build/Debug/CMakeFiles/cmake.verify_globs	daa932c0ea1faa54
+51	305	8129435580684296	CMakeFiles/RELOJ.dir/Core/Src/main.c.obj	fa7671528344196b
+306	649	8129435582667248	RELOJ.elf	273deef65007594e
+16	48	0	C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/build/Debug/CMakeFiles/cmake.verify_globs	daa932c0ea1faa54
+50	315	8129437586909219	CMakeFiles/RELOJ.dir/Core/Src/main.c.obj	fa7671528344196b
+316	659	8129437588982640	RELOJ.elf	273deef65007594e
+16	48	0	C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/build/Debug/CMakeFiles/cmake.verify_globs	daa932c0ea1faa54
+50	319	8129450054375194	CMakeFiles/RELOJ.dir/Core/Src/main.c.obj	fa7671528344196b
+320	659	8129450056384738	RELOJ.elf	273deef65007594e
+16	47	0	C:/Users/Alcides Ramos/Desktop/EMBEBIDOS/RELOJ/build/Debug/CMakeFiles/cmake.verify_globs	daa932c0ea1faa54
+49	304	8129451307482723	CMakeFiles/RELOJ.dir/Core/Src/main.c.obj	fa7671528344196b
+304	629	8129451309410912	RELOJ.elf	273deef65007594e
